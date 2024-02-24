@@ -1,1 +1,1 @@
-https://komik.sarang.my.id/validator/
+https://komik.sarang.my.id/api/
