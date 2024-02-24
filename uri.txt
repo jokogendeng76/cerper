@@ -1,2 +1,1 @@
-https://komik.sarang.my.id/api/
-testing lagi
+https://komik.sarang.my.id/shpxbot/
